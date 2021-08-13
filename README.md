@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineer - full stack
 - 🌱 I’m life learner
 - 💞️ I’m looking to collaborate on MERN project
-- 📫 [How to reach me](http://avisaa.dev) 
+- 📫 [How to reach me](https://github.com/Avisa-GA) 
 
 <!---
 Avisa19/Avisa19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
