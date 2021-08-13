@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Avisa 
 - 👀 I’m interested in Software Engineer - full stack
-- 🌱 I’m life learner
+- 🌱 I’m a life learner
 - 💞️ I’m looking to collaborate on MERN project
 - 📫 [How to reach me](https://github.com/Avisa-GA) 
 
